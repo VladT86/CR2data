@@ -2,7 +2,7 @@
 //args[1] = json export folder
 //args[2] = ftp address  	files.000webhost.com
 //args[3] = ftp user cr2meta
-//args[4] = ftp pass test1234
+//args[4] = ftp pass
 
 
 import java.io.File;
